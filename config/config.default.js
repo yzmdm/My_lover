@@ -44,7 +44,7 @@ module.exports = appInfo => {
     mineBirth: "2000-06-25", // 自己的生日
     gfBirth: "2002-11-13", // 女朋友的生日
     loveDay: "2023-01-18", // 在一起的日期
-    weatherCity: '张湾区' // 需要获取天气的城市，必须时xx市，xx县，xx自治区, 详细可以去utils/amap.js搜索到就可以，比如广州市，不能是广州
+    weatherCity: '十堰市' // 需要获取天气的城市，必须时xx市，xx县，xx自治区, 详细可以去utils/amap.js搜索到就可以，比如广州市，不能是广州
   }
 
   config.userCity = {
